@@ -1,0 +1,6 @@
+{
+  "name": "Savi Painting OS Enterprise Ultimate",
+  "description": "Comprehensive customer lifecycle and business automation engine for painting contractors, featuring rough and final quotation generators, GPS tracking, CRM timeline, WhatsApp integrations, material estimating, and campaigns.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
